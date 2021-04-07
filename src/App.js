@@ -1,6 +1,6 @@
 import './App.css';
 
-import ChannelRow from './components/ChannelRow'
+import ChannelRow from './components/ChannelRow';
 
 let data = [
   {
@@ -22,7 +22,7 @@ function App() {
     return <li class="self-center justify-center w-4/5 ">
       <ChannelRow {...x} />
     </li>;
-  })
+  });
   return (
     <div class="flex flex-col w-full h-screen bg-blue-200">
       <div class="self-center py-4 align-center">
@@ -45,6 +45,10 @@ function App() {
       <ul class="flex flex-col">
         {channels}
       </ul>
+      <div style={{ textAlign: "center" }}>
+
+        <a style={{ color: "grey" }} href="https://studio.youtube.com">YouTube Studio</a>
+      </div>
     </div>
   );
 }
