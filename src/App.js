@@ -14,6 +14,12 @@ let data = [
     thumbnail: '/avatar/portrait_1.jpeg',
     description: 'Hour long exports from my Twitch channel 😊',
     link: 'https://www.youtube.com/c/AlemayhuVODS'
+  },
+  {
+    name: 'Anki in Minutes',
+    thumbnail: '/avatar/aim.png',
+    description: 'Short and sweet tutorials in Anki 🌟',
+    link: 'https://www.youtube.com/channel/UCH6xln-f73LO1_1vDCtgQeA'
   }
 ];
 
