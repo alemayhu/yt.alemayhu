@@ -20,6 +20,12 @@ let data = [
     thumbnail: '/avatar/aim.png',
     description: 'Short and sweet tutorials in Anki 🌟',
     link: 'https://www.youtube.com/channel/UCH6xln-f73LO1_1vDCtgQeA'
+  },
+  {
+    name: 'Japanese with Alexander',
+    thumbnail: 'avatar/aa-jp.jpeg',
+    description: 'documenting my journey learning Japanese',
+    link: 'https://www.youtube.com/channel/UCHfcPigjdtXb6RNcn-5CLZA'
   }
 ];
 
