@@ -12,7 +12,7 @@ let data = [
   {
     name: 'Alemayhu VODs',
     thumbnail: '/avatar/portrait_1.jpeg',
-    description: 'Hour long exports from my Twitch channel 😊',
+    description: 'Hour long old exports from my Twitch channel 😊',
     link: 'https://www.youtube.com/c/AlemayhuVODS'
   },
   {
