@@ -26,6 +26,12 @@ let data = [
     thumbnail: 'avatar/aa-jp.jpeg',
     description: 'documenting my journey learning Japanese',
     link: 'https://www.youtube.com/channel/UCHfcPigjdtXb6RNcn-5CLZA'
+  },
+  {
+    name: 'Alexander Plays Games',
+    thumbnail: 'https://yt3.ggpht.com/nWaTIB3YmA0_Js4AK40w1CGpjE_gmytPc3e8NDpQZuKdn1pZQymwKwE1R81d0X_log0lbzc0=s176-c-k-c0x00ffffff-no-rj',
+    description: 'My gaming channel 🕹',
+    link: 'https://www.youtube.com/channel/UCvduI6Kq1SyuDAOyHabVNnQ'
   }
 ];
 
