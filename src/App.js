@@ -22,6 +22,12 @@ let data = [
     link: 'https://www.youtube.com/channel/UCvduI6Kq1SyuDAOyHabVNnQ'
   },
   {
+    name: 'ScheduleTube',
+    thumbnail: '/avatar/scheduletube.jpeg',
+    description: 'Simplifying scheduling for content creators on YouTube.',
+    link: 'https://www.youtube.com/channel/UC7ZJqbDvZgEP0HBCVBrRFWg'
+  },
+  {
     name: 'Alemayhu VODs',
     thumbnail: '/avatar/portrait_1.jpeg',
     description: 'Hour long old exports from my Twitch channel 😊',
