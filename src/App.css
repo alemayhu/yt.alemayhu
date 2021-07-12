@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.margin-auto {
+  margin: 0.3rem auto;
+}
+
+body {
+  background: #61dafb;
+}

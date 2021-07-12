@@ -4,7 +4,7 @@ export default class ChannelRow extends React.Component {
 
         render() {
                 return (
-                        <div className="flex items-center p-4 m-2 bg-gray-100 rounded sm:items-start">
+                        <div className="flex items-center p-4 m-2 bg-gray-100 rounded sm:items-start max-w-screen-md margin-auto">
                                 <div className="w-1/4">
                                         <a href={this.props.link}><img width="100px" className="rounded" alt={`thumbnail for channel ${this.props.name}`} src={this.props.thumbnail} /></a>
                                 </div>

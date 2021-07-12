@@ -42,12 +42,12 @@ function App() {
     </li>;
   });
   return (
-    <div className="flex flex-col w-full h-screen bg-blue-200">
+    <div className="flex flex-col w-full h-screen">
       <div className="self-center py-4 align-center">
         <div className="flex flex-col justify-center">
           <img
             alt="Avatar of Alexander Alemayhu"
-            className="self-center w-16 rounded-full"
+            className="self-center h-12 w-12 rounded-full"
             src="/logo.png" />
         </div>
         <div className="py-2">
@@ -63,9 +63,8 @@ function App() {
       <ul className="flex flex-col">
         {channels}
       </ul>
-      <div style={{ textAlign: "center" }}>
-
-        <a style={{ color: "grey" }} href="https://studio.youtube.com">YouTube Studio</a>
+      <div className="text-center">
+        <a className="text-white" href="https://studio.youtube.com">YouTube Studio</a>
       </div>
     </div>
   );
