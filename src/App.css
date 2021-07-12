@@ -44,3 +44,7 @@
 body {
   background: #61dafb;
 }
+
+.rounded {
+  border-radius: 9999px;
+}
