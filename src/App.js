@@ -6,19 +6,19 @@ let data = [
   {
     name: 'Alexander Alemayhu',
     thumbnail: '/avatar/aa.jpeg',
-    description: 'A personal channel where I share productivity stuff related to ⭐️ Anki and 🄽 Notion.',
+    description: 'A personal channel where I share productivity stuff related to Anki and Notion.',
     link: 'https://youtube.com/c/alexanderalemayhu'
   },
   {
     name: 'Anki in Minutes',
     thumbnail: '/avatar/aim.png',
-    description: 'Short and sweet tutorials about Anki 🌟',
+    description: 'Short and sweet tutorials about Anki.',
     link: 'https://www.youtube.com/channel/UCH6xln-f73LO1_1vDCtgQeA'
   },
   {
     name: 'Alexander Plays Games',
     thumbnail: '/avatar/gaming.png',
-    description: 'My gaming channel 🕹',
+    description: 'Come hangout and play games with me.',
     link: 'https://www.youtube.com/channel/UCvduI6Kq1SyuDAOyHabVNnQ'
   },
   {
@@ -30,7 +30,7 @@ let data = [
   {
     name: 'Japanese with Alexander',
     thumbnail: 'avatar/aa-jp.jpeg',
-    description: 'documenting my journey learning Japanese',
+    description: 'Documenting my journey learning Japanese.',
     link: 'https://www.youtube.com/channel/UCHfcPigjdtXb6RNcn-5CLZA'
   }
 ];
