@@ -9,9 +9,12 @@ export default class ChannelRow extends React.Component {
                                         <a
                                                 rel="noreferrer"
                                                 target="_blank"
-                                                href={this.props.link}><img width="100px" className="rounded" alt={`thumbnail for channel ${this.props.name}`} src={this.props.thumbnail} /></a>
+                                                href={this.props.link}><img width="100px" className="rounded" alt={`avatar for channel ${this.props.name}`} src={this.props.thumbnail} /></a>
                                 </div>
-                                <div className="self-center flex-grow w-full p-4 text-xs sm:text-xl sm:p-2">{this.props.description}</div>
+                                <div className="self-center flex-grow w-full p-4 text-xs sm:text-xl sm:p-2">
+                                        <h2 className="text-2xl font-bold">{this.props.name}</h2>
+                                        {this.props.description}
+                                </div>
                                 <div className="self-center m-2">
                                         <a
                                                 rel="noreferrer"
