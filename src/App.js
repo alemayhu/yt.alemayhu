@@ -37,30 +37,30 @@ let data = [
 
 function App() {
   const channels = data.map(x => {
-    return <li class="self-center justify-center w-4/5 ">
+    return <li className="self-center justify-center w-4/5 ">
       <ChannelRow {...x} />
     </li>;
   });
   return (
-    <div class="flex flex-col w-full h-screen bg-blue-200">
-      <div class="self-center py-4 align-center">
-        <div class="flex flex-col justify-center">
+    <div className="flex flex-col w-full h-screen bg-blue-200">
+      <div className="self-center py-4 align-center">
+        <div className="flex flex-col justify-center">
           <img
             alt="Avatar of Alexander Alemayhu"
-            class="self-center w-16 rounded-full"
+            className="self-center w-16 rounded-full"
             src="/logo.png" />
         </div>
-        <div class="py-2">
-          <a class="text-white" href="https://twitter.com/aalemayhu">@aalemayhu</a>
+        <div className="py-2">
+          <a className="text-white" href="https://twitter.com/aalemayhu">@aalemayhu</a>
         </div>
       </div>
-      <div class="mx-2 text-center text-gray-700">
+      <div className="mx-2 text-center text-gray-700">
         <p>
           Below are links to my various YouTube channels, click on the red button to
           subscribe!
-    </p>
+        </p>
       </div>
-      <ul class="flex flex-col">
+      <ul className="flex flex-col">
         {channels}
       </ul>
       <div style={{ textAlign: "center" }}>
