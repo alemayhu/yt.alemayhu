@@ -48,3 +48,12 @@ body {
 .rounded {
   border-radius: 9999px;
 }
+
+@media screen and (max-width: 480px) {
+  img {
+    display: none;
+  }
+  .channel-row {
+    flex-direction: column;
+  }
+}

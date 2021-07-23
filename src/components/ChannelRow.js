@@ -4,7 +4,7 @@ export default class ChannelRow extends React.Component {
 
         render() {
                 return (
-                        <div className="flex items-center p-4 m-2 bg-gray-100 sm:items-start max-w-screen-md margin-auto">
+                        <div className="channel-row flex items-center p-4 m-2 bg-gray-100 sm:items-start max-w-screen-md margin-auto">
                                 <div className="w-1/4">
                                         <a
                                                 rel="noreferrer"
