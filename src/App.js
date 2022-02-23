@@ -16,28 +16,10 @@ let data = [
     link: 'https://www.youtube.com/channel/UCH6xln-f73LO1_1vDCtgQeA'
   },
   {
-    name: 'Alexander Plays Games',
-    thumbnail: '/avatar/gaming.png',
-    description: 'Come hangout and play games with me.',
-    link: 'https://www.youtube.com/channel/UCvduI6Kq1SyuDAOyHabVNnQ'
-  },
-  {
-    name: 'ScheduleTube',
-    thumbnail: '/avatar/scheduletube.jpeg',
-    description: 'Simplifying scheduling for content creators on YouTube.',
-    link: 'https://www.youtube.com/channel/UC7ZJqbDvZgEP0HBCVBrRFWg'
-  },
-  {
     name: 'Alemayhu VODs',
     thumbnail: '/avatar/portrait_1.jpeg',
     description: 'Hour long old exports from my Twitch channel 😊',
     link: 'https://www.youtube.com/c/AlemayhuVODS'
-  },
-  {
-    name: 'Japanese with Alexander',
-    thumbnail: 'avatar/aa-jp.jpeg',
-    description: 'Documenting my journey learning Japanese.',
-    link: 'https://www.youtube.com/channel/UCHfcPigjdtXb6RNcn-5CLZA'
   }
 ];
 
