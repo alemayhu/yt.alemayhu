@@ -3,6 +3,6 @@
   "version": "0.1.1",
   "private": false,
   "scripts": {
-    "build": "echo no building ;)"
+    "build": "echo no building"
   }
 }
