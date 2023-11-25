@@ -1,4 +1,4 @@
-# yt.alemayhu.com
+# yt.alemayhu.com.DEPRECATED
 
 List all of my YouTube channels.
 
